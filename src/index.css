@@ -1,0 +1,9 @@
+.largura-colunas{
+    -moz-column-width: 100px;
+    -moz-column-count: 2;
+    -moz-column-gap: 15px;
+    -moz-column-rule: 1px solid #666;
+    -webkit-column-width: 15em;
+    -webkit-column-gap: 15px;
+    -webkit-column-rule: 1px solid #666;
+ }
